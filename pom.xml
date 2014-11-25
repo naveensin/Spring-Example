@@ -282,5 +282,4 @@
 		</plugins>
 	</reporting>
 
-	<packaging>war</packaging>
 </project>
